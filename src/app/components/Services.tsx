@@ -24,7 +24,7 @@ export function Services({ onBookClick }: ServicesProps) {
         "Coloração natural que preenche e define suas sobrancelhas com delicadeza",
       price: "A partir de R$ 70",
       image: "/img/hennanic2.jpeg",
-      imagePosition: "left center 22%",
+      imagePosition: "center 22%",
       imageScale: 1.45,
     },
     {
