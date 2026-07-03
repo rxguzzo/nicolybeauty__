@@ -126,8 +126,7 @@ export function Footer() {
                     style={{ color: "var(--rose-gold)" }}
                   />
                   <div>
-                    <br />
-                    Centro, Indaiatuba - SP
+                 Centro, Indaiatuba - SP
                   </div>
                 </div>
               </div>
