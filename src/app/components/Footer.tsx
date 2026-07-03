@@ -126,7 +126,6 @@ export function Footer() {
                     style={{ color: "var(--rose-gold)" }}
                   />
                   <div>
-                    R. Bernardino de Campos, 753
                     <br />
                     Centro, Indaiatuba - SP
                   </div>
